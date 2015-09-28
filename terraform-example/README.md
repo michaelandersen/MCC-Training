@@ -1,13 +1,13 @@
 ### CloudStack VPC with 1 Tier and 1 Centos 7 VM ###
 1) fill in the following variables in the terraform.tfvars file:
 
-api_url = "https://"
-api_key = ""
-secret_key = ""
-zone = ""
-server1_hostname = ""
-instance_ssh_keypairname  = ""
-offering_compute_medium = ""
+* api_url = "https://" 
+* api_key = ""
+* secret_key = ""
+* zone = ""
+* server1_hostname = ""
+* instance_ssh_keypairname  = ""
+* offering_compute_medium = ""
 
 2) Install Terraform
 
