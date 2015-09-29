@@ -21,4 +21,4 @@ https://terraform.io/downloads.html
 - execute: terraform apply
 
 5) Login
-- ssh -i cloudstack.pem bootstrap@<public_ip_address>
+- ssh -i cloudstack.pem bootstrap@""public_ip_address""
